@@ -1,0 +1,104 @@
+# Project exclude paths
+/.gradle/
+/Game of Life/task/build/
+/Game of Life/task/out/
+/Game of Life/task/out/production/classes/
+/Game of Life/task/out/test/classes/
+/Topics/Anonymous classes/An anonymous class with three methods/out/
+/Topics/Anonymous classes/An anonymous class with three methods/out/production/classes/
+/Topics/Anonymous classes/Implement Runnable/out/
+/Topics/Anonymous classes/Implement Runnable/out/production/classes/
+/Topics/Anonymous classes/String reverser/out/
+/Topics/Anonymous classes/String reverser/out/production/classes/
+/Topics/Anonymous classes/Theory/out/
+/Topics/Anonymous classes/Theory/out/production/classes/
+/Topics/Anonymous classes properties/Create instance/out/
+/Topics/Anonymous classes properties/Create instance/out/production/classes/
+/Topics/Anonymous classes properties/Iterations/out/
+/Topics/Anonymous classes properties/Iterations/out/production/classes/
+/Topics/Anonymous classes properties/Managing a process/out/
+/Topics/Anonymous classes properties/Managing a process/out/production/classes/
+/Topics/Anonymous classes properties/Theory/out/
+/Topics/Anonymous classes properties/Theory/out/production/classes/
+/Topics/Boxing and unboxing/Only true or false/out/
+/Topics/Boxing and unboxing/Only true or false/out/production/classes/
+/Topics/Boxing and unboxing/Safe converting/out/
+/Topics/Boxing and unboxing/Safe converting/out/production/classes/
+/Topics/Boxing and unboxing/Theory/out/
+/Topics/Boxing and unboxing/Theory/out/production/classes/
+/Topics/Custom threads/Message notifier as a thread/out/
+/Topics/Custom threads/Message notifier as a thread/out/production/classes/
+/Topics/Custom threads/Starting threads/out/
+/Topics/Custom threads/Starting threads/out/production/classes/
+/Topics/Custom threads/Theory/out/
+/Topics/Custom threads/Theory/out/production/classes/
+/Topics/Default methods/Add new default method/out/
+/Topics/Default methods/Add new default method/out/production/classes/
+/Topics/Default methods/Implement a default method/out/
+/Topics/Default methods/Implement a default method/out/production/classes/
+/Topics/Default methods/Resolve a diamond problem/out/
+/Topics/Default methods/Resolve a diamond problem/out/production/classes/
+/Topics/Default methods/Theory/out/
+/Topics/Default methods/Theory/out/production/classes/
+/Topics/Functional interfaces/A lambda expression with seven arguments/out/
+/Topics/Functional interfaces/A lambda expression with seven arguments/out/production/classes/
+/Topics/Functional interfaces/Theory/out/
+/Topics/Functional interfaces/Theory/out/production/classes/
+/Topics/Interruptions/Handling interruptions/out/
+/Topics/Interruptions/Handling interruptions/out/production/classes/
+/Topics/Interruptions/Interrupting a thread/out/
+/Topics/Interruptions/Interrupting a thread/out/production/classes/
+/Topics/Interruptions/Theory/out/
+/Topics/Interruptions/Theory/out/production/classes/
+/Topics/Introduction to generic programming/Pastry packing optimization/out/
+/Topics/Introduction to generic programming/Pastry packing optimization/out/production/classes/
+/Topics/Introduction to generic programming/Theory/out/
+/Topics/Introduction to generic programming/Theory/out/production/classes/
+/Topics/Lambda expressions/Apply function to all elements/out/
+/Topics/Lambda expressions/Apply function to all elements/out/production/classes/
+/Topics/Lambda expressions/Creating a closure/out/
+/Topics/Lambda expressions/Creating a closure/out/production/classes/
+/Topics/Lambda expressions/Next even number/out/
+/Topics/Lambda expressions/Next even number/out/production/classes/
+/Topics/Lambda expressions/Production of all numbers in the range/out/
+/Topics/Lambda expressions/Production of all numbers in the range/out/production/classes/
+/Topics/Lambda expressions/Theory/out/
+/Topics/Lambda expressions/Theory/out/production/classes/
+/Topics/NPE/Avoid NPE/out/
+/Topics/NPE/Avoid NPE/out/production/classes/
+/Topics/NPE/Return empty string when argument is null/out/
+/Topics/NPE/Return empty string when argument is null/out/production/classes/
+/Topics/NPE/Theory/out/
+/Topics/NPE/Theory/out/production/classes/
+/Topics/Random/Find the seed/out/
+/Topics/Random/Find the seed/out/production/classes/
+/Topics/Random/Gaussian random numbers/out/
+/Topics/Random/Gaussian random numbers/out/production/classes/
+/Topics/Random/Generate random numbers/out/
+/Topics/Random/Generate random numbers/out/production/classes/
+/Topics/Random/Theory/out/
+/Topics/Random/Theory/out/production/classes/
+/Topics/States of a thread/A thread in NEW state/out/
+/Topics/States of a thread/A thread in NEW state/out/production/classes/
+/Topics/States of a thread/Print name of TERMINATED thread/out/
+/Topics/States of a thread/Print name of TERMINATED thread/out/production/classes/
+/Topics/States of a thread/Theory/out/
+/Topics/States of a thread/Theory/out/production/classes/
+/Topics/Thread management/Calculate the number of distinct characters/out/
+/Topics/Thread management/Calculate the number of distinct characters/out/production/classes/
+/Topics/Thread management/Ordering the execution of threads/out/
+/Topics/Thread management/Ordering the execution of threads/out/production/classes/
+/Topics/Thread management/Summing with threads/out/
+/Topics/Thread management/Summing with threads/out/production/classes/
+/Topics/Thread management/Theory/out/
+/Topics/Thread management/Theory/out/production/classes/
+/Topics/Thread management/VeganPizza/out/
+/Topics/Thread management/VeganPizza/out/production/classes/
+/Topics/Threads as objects/Getting current thread info/out/
+/Topics/Threads as objects/Getting current thread info/out/production/classes/
+/Topics/Threads as objects/Is thread daemon/out/
+/Topics/Threads as objects/Is thread daemon/out/production/classes/
+/Topics/Threads as objects/Theory/out/
+/Topics/Threads as objects/Theory/out/production/classes/
+/Topics/Threads as objects/Thread name/out/
+/Topics/Threads as objects/Thread name/out/production/classes/
